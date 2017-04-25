@@ -32,6 +32,7 @@ var btnClickCount = 0;
 
 // Gets/sets press event callback for btn
 function btn_onPress() {
+    alert("Hello World");
     var myLabelText = "";
     var myButtonText = "";
 
